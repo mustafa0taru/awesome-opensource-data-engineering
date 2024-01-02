@@ -61,6 +61,7 @@ toc::[]
 * https://github.com/dremio/dremio-oss[Dremio] - A data lake engine. Provides an Apache Arrow-based query and acceleration engine together with the ability to create an IT-governed self-service layer for data scientists and analysts.
 * http://teiid.io/[Teiid] - A relational abstraction of different information sources.
 * https://prestodb.io/[Presto] - Distributed SQL Query Engine for Big Data.
+* https://www.elastic.co/kibana[kibana] - Data visualization and exploration tool for Elasticsearch.
 
 == Data Orchestration
 * https://github.com/Alluxio/alluxio[Alluxio] - Scalable, multi-tiered distributed caching for HDFS, S3, Ceph, NFS, and related filestores. Provides integrations for SQL queries into a Catalog from Spark, Hive, and Presto. 
@@ -113,6 +114,7 @@ toc::[]
 == Monitoring and Logging
 * https://prometheus.io/[prometheus] - An open-source systems monitoring and alerting toolkit.
 * https://grafana.com/[grafana] - An open-source analytics and monitoring platform.
+* https://graylog.org/[graylog] - an open-source log management solution that collects, indexes, and analyzes log data.
 
 == Versioning 
 * https://github.com/treeverse/lakeFS/[lakeFS] - Repeatable, atomic and versioned data lake on top of object storage.
